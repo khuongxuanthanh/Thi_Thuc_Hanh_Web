@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+html body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+header {
+    height: 120px;
+    background-color: #ef5122;
+}
+
+var {
+    height: 79px;
+    background-color: #75e011;
+}
+
+section {
+    height: 2000px;
+    background-color: white;
+}
+
+footer {
+    height: 150px;
+    background-color: black;
+}
